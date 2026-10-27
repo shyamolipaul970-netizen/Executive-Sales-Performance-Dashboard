@@ -3,7 +3,8 @@
 This project presents an interactive Executive Sales Dashboard built using Microsoft Power BI. It provides a consolidated view of sales performance across time periods, countries, sales channels, and product categories.
 The dashboard is designed to help business stakeholders monitor key performance indicators (KPIs), identify sales trends, and compare revenue and profitability.
 ## Dashboard Preview
-<img width="4032" height="293" alt="image" src="https://github.com/user-attachments/assets/af76fa9c-d3b1-44bd-b953-8bf680a58ff1" />
+<img width="4032" height="293" alt="image" src="https://github.com/user-attachments/assets/960705a6-bee2-417f-abe1-efd9ad7c3234" />
+
 ## Key Performance Indicators
 - Total Revenue: 645.22K
 - Total Gross Profit: 296.38K
